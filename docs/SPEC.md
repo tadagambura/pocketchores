@@ -35,7 +35,7 @@ Turns the family into its own little nation. Parents are the government: they se
 | Premium | £3.99/month per family: unlimited children, interest, favour swaps, kid devices, history |
 | Ads | None (children use it) |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** no ads here because children use it; the free tier is limited instead, and premium adds cloud backup, sync across family devices and the extras.
 
 ## Retention: The Progression Loop
 
@@ -69,6 +69,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo app; separate devices for kids need a shared backend (Supabase).
 - **Data:** Virtual money only, no real bank connection. Children's data kept to a minimum.
+- **Backend:** Device only on a family phone or tablet; shared data once kids get their own devices. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine

@@ -90,4 +90,4 @@ Keep all money virtual: linking real bank accounts or issuing real cards to chil
 - [ ] Landing page
 - [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
-- [ ] Added to growth-engine as an app config
+- [ ] Added to the Growth & Maintenance Engine as an app config

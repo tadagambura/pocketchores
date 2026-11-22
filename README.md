@@ -2,7 +2,7 @@
 
 **The Family Bank: chores, pocket money and real money lessons**
 
-> #11 of 33 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants
+> #10 of 32 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants
 
 ## What it is
 
@@ -10,7 +10,7 @@ Turns the family into its own little nation. Parents are the government: they se
 
 ## Why it's in the portfolio
 
-Weekly pocket-money day and daily chores give it daily use, and the family keeps using it for years as the kids grow (it's the opposite of disposable). Parents pay for anything that ends chore arguments and teaches kids about money. Interest on savings is a perfect real-life lesson in compounding, and it pairs with MoneyMinute and StackUp.
+Weekly pocket-money day and daily chores give it daily use, and the family keeps using it for years as the kids grow (it's the opposite of disposable). Parents pay for anything that ends chore arguments and teaches kids about money. Interest on savings is a perfect real-life lesson in compounding, and it pairs with StackUp.
 
 ## Who it's for
 
@@ -85,5 +85,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 33 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 32 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).

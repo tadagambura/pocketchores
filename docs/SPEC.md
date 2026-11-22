@@ -1,6 +1,6 @@
 # PocketChores: Spec
 
-**The Family Bank: chores, pocket money and real money lessons** · #11 of 33 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants · Source: New (Claude)
+**The Family Bank: chores, pocket money and real money lessons** · #10 of 32 · Wave 1: Daily keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants · Source: New (Claude)
 
 ## One-liner
 

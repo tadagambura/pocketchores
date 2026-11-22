@@ -59,12 +59,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Saving goals and new chores as kids grow |
 | Cadence | Daily |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Tap-to-pay card animation; coin shower on pay day
-- Savings 'money tree' grows as interest lands
+- Do the dishes: the stickman stacks plates, they wobble and crash, and it still counts
+- Laundry: the stickman staggers under an overflowing basket as socks fly out
+- Pay day: the kid's virtual card taps and coins rain into their bank
+- Interest paid: the family money tree grows a new coin leaf
+- Favour swap: two stickmen shake on it, then one ends up comically buried in the other's dishes
 
 **Line we don't cross:** Children use it: celebrate, never shame. No drama when a chore isn't done.
 

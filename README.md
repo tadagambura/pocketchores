@@ -43,6 +43,8 @@ Parents of children aged roughly 5–14.
 | Premium | £3.99/month per family: unlimited children, interest, favour swaps, kid devices, history |
 | Ads | None (children use it) |
 
+**Portfolio premium promise:** no ads here because children use it; the free tier is limited instead, and premium adds cloud backup, sync across family devices and the extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
